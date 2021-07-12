@@ -1,0 +1,11 @@
+package abstractex;
+
+public class DeskTop extends Computer{
+
+	@Override
+	public void typing() {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

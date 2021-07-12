@@ -1,0 +1,22 @@
+package inheritance;
+
+public class ColorPoinEx {
+
+	public static void main(String[] args) {
+			
+		Point p = new Point();
+		
+		p.set(1,2);
+		p.showPoint();
+		
+		ColorPoint cp = new ColorPoint();		// ColorPoint °´Ã¼
+		
+		cp.set(3, 4);
+		cp.setColor("red");
+		cp.showColorPoint();
+		
+		
+		
+	}
+
+}

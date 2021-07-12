@@ -1,0 +1,28 @@
+package inheritance;
+
+public class ColorPoint extends Point{
+	
+	
+	private String color;		// 점의 색을 표시
+	
+	public void setColor(String color) {
+		
+		this.color = color;
+		
+	}
+	public void showColorPoint() {
+		showPoint();		//point 클래스의 메소드 호출
+		System.out.println(color);
+		
+	}
+	
+	/*public static void main(String[] args) {
+	
+		Point p = new Point();
+		
+		p.x = 1;
+		p.y = 2;
+		
+	}*/
+	
+}

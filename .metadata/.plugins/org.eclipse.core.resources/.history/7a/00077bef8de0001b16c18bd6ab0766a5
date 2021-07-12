@@ -1,0 +1,28 @@
+package Q;
+
+public class Sonata extends Car{
+
+	public Sonata(String car) {
+		super(car);
+		// TODO Auto-generated constructor stub
+	}
+
+	@Override
+	public void startCar() {
+		System.out.println(car + " 시동을 켭니다.");
+	}
+	
+	@Override
+	public void drive() {
+		System.out.println(car +"달립니다");
+	}
+	@Override
+	public void stop() {
+		System.out.println(car +"멈춥니다");
+	}
+	@Override
+	public void turnOff() {
+		System.out.println(car +"시동을 끕니다");
+	}
+	
+}

@@ -1,0 +1,25 @@
+package abstractex;
+
+public class Goodcal extends Calculator {
+
+	@Override
+	public int add(int a, int b) {
+	
+	}
+
+	@Override
+	public int subtract(int a, int b) {
+		
+	}
+
+	@Override
+	public double average(int[] a) {
+		
+	}
+
+	public static void main(String[] args) {
+		
+
+	}
+
+}

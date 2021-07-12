@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;array.ArrayTest_var&apos; to &apos;VariableTest&apos;&#x0D;&#x0A;- Original project: &apos;chapter07&apos;&#x0D;&#x0A;- Original element: &apos;array.ArrayTest_var&apos;&#x0D;&#x0A;- Renamed element: &apos;array.VariableTest&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;ArrayTest_var&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;array{ArrayTest_var.java[ArrayTest_var" matchStrategy="1" name="VariableTest" qualified="false" references="true" similarDeclarations="false" stamp="1625025562375" textual="false" version="1.0"/>
+</session>
